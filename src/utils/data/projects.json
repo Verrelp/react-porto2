@@ -18,7 +18,7 @@
       "cover": "https://img.freepik.com/free-photo/aerial-view-private-house-with-solar-panels-roof_181624-14677.jpg",
       "summary": "ome quick example text to build on the card title and make up the bulk of the card's content.",
       "link": "#",
-      "type": "moderen"
+      "type": "modern"
 
     },
     {
@@ -26,7 +26,15 @@
       "cover": "https://img.freepik.com/premium-photo/house-with-solar-photo-voltaic-panels-roof_127089-1495.jpg",
       "summary": "ome quick example text to build on the card title and make up the bulk of the card's content.",
       "link": "#",
-      "type": "moderen"
+      "type": "classic"
+    },
+
+    {
+      "name": "Project 5",
+      "cover": "https://img.freepik.com/premium-photo/house-with-solar-photo-voltaic-panels-roof_127089-1495.jpg",
+      "summary": "ome quick example text to build on the card title and make up the bulk of the card's content.",
+      "link": "#",
+      "type": "classic"
     }
   ]
   
